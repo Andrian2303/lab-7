@@ -1,0 +1,17 @@
+ua/lviv/iot/repair/manager/MaterialsManagerUtils$SorterByPrice.class
+ua/lviv/iot/repair/manager/MaterialsManagerUtils$SorterMaterialBySize.class
+ua/lviv/iot/repair/dataaccess/WireRepository.class
+ua/lviv/iot/repair/model/TypeOfWire.class
+ua/lviv/iot/repair/controller/WireController.class
+ua/lviv/iot/repair/model/Beton.class
+ua/lviv/iot/repair/manager/MaterialsManagerUtils$1.class
+ua/lviv/iot/repair/model/Wire.class
+ua/lviv/iot/repair/RestApplication.class
+ua/lviv/iot/repair/model/TypeOfConnector.class
+ua/lviv/iot/repair/manager/MaterialsManager.class
+ua/lviv/iot/repair/model/SortType.class
+ua/lviv/iot/repair/business/WireService.class
+ua/lviv/iot/repair/manager/MaterialsManagerUtils.class
+ua/lviv/iot/repair/model/AbstractMaterials.class
+ua/lviv/iot/repair/writer/MaterialsWriter.class
+ua/lviv/iot/repair/model/Socket.class

@@ -1,0 +1,14 @@
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/manager/MaterialsManager.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/dataaccess/WireRepository.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/model/Beton.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/model/Wire.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/model/AbstractMaterials.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/model/TypeOfConnector.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/model/SortType.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/model/TypeOfWire.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/model/Socket.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/controller/WireController.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/RestApplication.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/writer/MaterialsWriter.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/business/WireService.java
+/Users/andriankhoma/Desktop/RepairLab 7-8/src/main/java/ua/lviv/iot/repair/manager/MaterialsManagerUtils.java
